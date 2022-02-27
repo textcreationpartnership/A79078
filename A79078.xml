@@ -1,0 +1,665 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royall missive to the Prince of VVales, being the letter of K. Charles I. : in part metrically paraphrased, for essay vnto the rest / by Ri. VVatson.</title>
+            <author>Watson, Richard, 1612-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79078</idno>
+            <idno type="STC">Wing C2765A</idno>
+            <idno type="STC">ESTC R204015</idno>
+            <idno type="EEBO-CITATION">99895561</idno>
+            <idno type="PROQUEST">99895561</idno>
+            <idno type="VID">153113</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153113)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2972:7b, 2347:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royall missive to the Prince of VVales, being the letter of K. Charles I. : in part metrically paraphrased, for essay vnto the rest / by Ri. VVatson.</title>
+                  <author>Watson, Richard, 1612-1685.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>By Claude Le Blanc,</publisher>
+                  <pubPlace>Printed at Caen :</pubPlace>
+                  <date>M. DC. LX. [1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Copy at reel 2972:7b bound and filmed following: "The royall votarie laying dovvne svvord and shield, to take up prayer and patience, the devout practice, of His sacred Maiesty K. Charles I. in his solitudes &amp; sufferings" (Wing W1094A, 2972:7a).</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153113:1"/>
+            <p>THE ROYALL MISSIVE TO THE PRINCE OF VVALES, BEING THE LETTER OF K. CHARLES I.</p>
+            <p>IN PART METRICALLY PARA<g ref="char:EOLhyphen"/>PHRASED, FOR ESSAY VNTO THE REST.</p>
+            <p>BY RI. VVATSON.</p>
+            <p>Printed AT CAEN, By CLAVDE LE BLANC. M.DC.LX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:153113:2"/>
+            <pb n="3" facs="tcp:153113:2"/>
+            <head>To the Prince of VVales.</head>
+            <opener>
+               <salute>SON,</salute>
+            </opener>
+            <lg>
+               <l>If my <hi>Papers</hi> at your hand arrive,</l>
+               <l>Wherein by <hi>Conſcience Counſell</hi> I contrive;</l>
+               <l>Rallie my private thoughts, and in array</l>
+               <l>My forces ready for your march diſplay,</l>
+               <l>Proof-armed, &amp; by ſound <hi>Experience</hi> taught</l>
+               <l>How to keep ground, retreate, how to aſſau't;</l>
+               <l>Advance <hi>yours</hi> by <hi>my Iudgement</hi> to the field,</l>
+               <l>Where <hi>Piety</hi> muſt be your <hi>ſword</hi> and <hi>shield;</hi>
+               </l>
+               <l>Guide you in <hi>fight,</hi> and <hi>parlie,</hi> to redreſſe</l>
+               <l>What now <hi>doe's,</hi> or hereafter <hi>may,</hi> you preſſe.</l>
+            </lg>
+            <lg>
+               <l>I wing the heavie <hi>Houres,</hi> and cleare the skie</l>
+               <l>From the cloud of <hi>reſtraint</hi> and <hi>injurie;</hi>
+               </l>
+               <l>Through my immantled <hi>ſoul</hi> ſee brighter day</l>
+               <l>Then's usherd by the meſſenger of <hi>May,</hi>
+               </l>
+               <l>In theſe light ſtreaming lines, which o're the hill</l>
+               <l>Shew me your future <hi>triumph</hi> by my <hi>skill,</hi>
+               </l>
+               <l>When neither <hi>Son,</hi> nor <hi>Subject,</hi> ſure, will gueſſe</l>
+               <l>The meaſure of the <hi>Caeuſe</hi> by my <hi>ſucceſſe,</hi>
+               </l>
+               <l>Convinc'd by yours; nor in opinion ſtate</l>
+               <pb n="4" facs="tcp:153113:3"/>
+               <l>
+                  <hi>My Iudgement,</hi> as my <hi>Warre,</hi> unfortunate.</l>
+               <l>So, yet more thought ſo for your ſake, &amp; theirs,</l>
+               <l>With my ſelfe <hi>Rivalls,</hi> you my <hi>Love's</hi> coheires;</l>
+               <l>The weights of whoſe afflictions preſſe me downe</l>
+               <l>Deeper in ſenſe, and ſadneſſe, then mine owne,</l>
+               <l>From a <hi>falſe title</hi> to my <hi>ſuffering,</hi>
+               </l>
+               <l>Becauſe I am your <hi>father,</hi> and their <hi>King.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But from moſt <hi>Princes</hi> have you <hi>Wiſdome's</hi> priſe</l>
+               <l>Won, by encountring early miſeries;</l>
+               <l>And with deare-bought <hi>Experience</hi> crown'd thoſe yeeres</l>
+               <l>Spent in beguiling pleaſures by your <hi>Peeres;</hi>
+               </l>
+               <l>Practis'd your <hi>armes,</hi> and <hi>patience</hi> exercis'd;</l>
+               <l>So that by no <hi>Chance</hi> can you be <hi>ſurpris'd,</hi>
+               </l>
+               <l>For want of <hi>Iudgement's</hi> guard, in your <hi>eſcape</hi>
+               </l>
+               <l>Secure, taught future cautele by my <hi>rape.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In this black ſcile, &amp; ſeaſon, doe you plant</l>
+               <l>
+                  <hi>Politike Vertues,</hi> manure <hi>Morall,</hi> dant</l>
+               <l>Slow <hi>Expectation;</hi> turne <hi>Ioy</hi> into <hi>Rage</hi>
+               </l>
+               <l>At full grow'n <hi>Piety</hi> in <hi>pupillage.</hi>
+               </l>
+               <l>So shoot up <hi>winter-ſcians,</hi> more ſtreight, &amp; cleane,</l>
+               <l>Then in warme <hi>Sun-shine</hi> ſet, or times <hi>ſerene.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In dayes of <hi>peace</hi> and <hi>plenty</hi> Princes courts</l>
+               <l>No <hi>Paradiſes</hi> are, but <hi>Scenes</hi> of <hi>ſports,</hi>
+               </l>
+               <pb n="5" facs="tcp:153113:3"/>
+               <l>Where <hi>Vertue</hi> take's no root, &amp; <hi>Pleaſure</hi> weave's</l>
+               <l>But <hi>Honour's</hi> counterfeit in ſilken leaves;</l>
+               <l>Frame's language to put off, with diſrepute,</l>
+               <l>Empty <hi>formalities</hi> for reall <hi>fruit,</hi>
+               </l>
+               <l>That ſterve the <hi>Publike,</hi> to which <hi>Kings ſonnes Knowe</hi>
+               </l>
+               <l>Their yeares, by <hi>birth,</hi> and <hi>Providence,</hi> they owe.</l>
+               <l>That <hi>Royall couple,</hi> by the ſacred pen</l>
+               <l>Recorded, neither <hi>Kings</hi> alike, nor <hi>men,</hi>
+               </l>
+               <l>Give's us a proſpect of th' inchanting power,</l>
+               <l>Which <hi>blowe's</hi> the <hi>Gra<g ref="char:cmbAbbrStroke">̄</g>dſire's, blaſt's</hi> y<hi rend="sup">e</hi> 
+                  <hi>Nephew's flower.</hi>
+               </l>
+               <l>
+                  <note n="*" place="margin">The Para<g ref="char:EOLunhyphen"/>phraſt here take's the liber<g ref="char:EOLhyphen"/>ty of ſome en<g ref="char:EOLhyphen"/>large<g ref="char:EOLhyphen"/>ment out of ſa<g ref="char:EOLhyphen"/>cred Hi<g ref="char:EOLhyphen"/>ſto<g ref="char:EOLhyphen"/>rie.</note>The ſon of <hi>Ieſſe</hi> that ſtep't firſt with his <hi>sling</hi>
+               </l>
+               <l>Toward the <hi>Court</hi> and <hi>tite</hi> of a <hi>King,</hi>
+               </l>
+               <l>Met, though the <hi>Giant</hi> fell by the ſmall ſtone,</l>
+               <l>Troups of <hi>Miſs-fortunes</hi> for that happy one;</l>
+               <l>Steep mountaines climb'd for a concealing clowd,</l>
+               <l>And in darke caves did <hi>Innocency</hi> shrowd,</l>
+               <l>Vntill, fledg'd in <hi>afflictions,</hi> and high-flow'n</l>
+               <l>He fetch't from <hi>Heav'n</hi> the <hi>laurell</hi> with his <hi>Crown,</hi>
+               </l>
+               <l>Maintaind by <hi>ſword</hi> and <hi>Vertue,</hi> but entail'd</l>
+               <l>To one who, fraught with <hi>Wiſdome,</hi> by <hi>Will</hi> ſail'd;</l>
+               <l>Become heire of vaſt <hi>wealth,</hi> &amp; war-got <hi>leiſu<g ref="char:EOLhyphen"/>re,</hi>
+               </l>
+               <pb n="6" facs="tcp:153113:4"/>
+               <l>Traffiq't for new-found <hi>fancies,</hi> unknow'n <hi>pleaſure;</hi>
+               </l>
+               <l>Chang'd th' <hi>iron Chariot</hi> for an <hi>ivory Throne;</hi>
+               </l>
+               <l>On <hi>ſilver</hi> trod inſtead of <hi>ſand</hi> and <hi>ſtone;</hi>
+               </l>
+               <l>Walk't under bending <hi>Cedars</hi> claſp't with gold,</l>
+               <l>While globes of <hi>Incenſe</hi> through his <hi>Palace</hi> roll'd;</l>
+               <l>As many <hi>wives</hi> and <hi>women</hi> had, as <hi>wishes;</hi>
+               </l>
+               <l>More <hi>tables</hi> furnish't, then his father <hi>dishes.</hi>
+               </l>
+               <l>His <hi>ships,</hi> witharmes, and horſes, plough'd y<hi rend="sup">e</hi> 
+                  <hi>Maine,</hi>
+               </l>
+               <l>Brought <hi>Apes</hi> too, and y<hi rend="sup">e</hi> bird with <hi>ſtarry traine.</hi>
+               </l>
+               <l>The <hi>Infant heire,</hi> in beds of softeſt downe,</l>
+               <l>Slept out the boding ſorrowes of a <hi>Crowne;</hi>
+               </l>
+               <l>Chapletts of <hi>roſes</hi> bound his youthfull brow,</l>
+               <l>While <hi>wine</hi> and <hi>joyes</hi> his bowles did overflow;</l>
+               <l>Intrancing <hi>muſike</hi> dayly charm'd his eare;</l>
+               <l>In ſtreames of <hi>oyle</hi> and <hi>whiſpers</hi> did he heare</l>
+               <l>All <hi>sycophantike</hi> language, not once told,</l>
+               <l>The <hi>yong Prince,</hi> as <hi>yong Peaſant,</hi> muſt grow <hi>old.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In theſe rich <hi>ſofts</hi> &amp; <hi>ſweets Rehoboam</hi> bred</l>
+               <l>His <hi>honour, peace,</hi> and <hi>Crowne,</hi> halfe forfeited</l>
+               <l>To his <hi>green Sages</hi> rashnes, and thoſe <hi>flies</hi>
+               </l>
+               <l>That stick to glorious <hi>Princes</hi> with preſs'd <hi>thighes</hi>
+               </l>
+               <pb n="7" facs="tcp:153113:4"/>
+               <l>And cripled knees, much like ſuch <hi>ſummer</hi> creatures</l>
+               <l>As in ripe fruit deſtroy the faireſt features,</l>
+               <l>Till <hi>Autumne's</hi> chaſing blaſts do 'em diſſeiſe,</l>
+               <l>As a <hi>miſs-fortune</hi> ſpied give's wings to theſe.</l>
+            </lg>
+            <lg>
+               <l>I had rather (which my <hi>Heart</hi> ſpeake's by my <hi>Hand</hi>)</l>
+               <l>That you should <hi>Charles le Bon</hi> be, then <hi>le Grand;</hi>
+               </l>
+               <l>Yet I, hope, deſtin'd to my <hi>Royall</hi> ſeat,</l>
+               <l>God will both <hi>Charles the good</hi> make, and <hi>y<hi rend="sup">e</hi> Great,</hi>
+               </l>
+               <l>Call'd in the <hi>dawning</hi> of your <hi>Age,</hi> to try</l>
+               <l>With <hi>Nature's</hi> Champions <hi>Grace's</hi> chivalry;</l>
+               <l>And by <hi>Heav'n's</hi> influence ſubdue the miſts</l>
+               <l>That to delude your ſenſe poſſeſſe the liſts;</l>
+               <l>The guerdon to which conqueſt of your mind,</l>
+               <l>Will be, to have it ſteadily inclin'd</l>
+               <l>To the imployment of thoſe <hi>ſacred powers</hi>
+               </l>
+               <l>Deſcended on you with the <hi>blooming Howers,</hi>
+               </l>
+               <l>By their full ſtrength and luſter to maintaine</l>
+               <l>Your peoples <hi>wellfare,</hi> &amp; their <hi>love</hi> to gaine.</l>
+            </lg>
+            <lg>
+               <l>With <hi>God</hi> begin and end, whoſe <hi>Vaſſalls</hi> are,</l>
+               <l>All <hi>Kings,</hi> each <hi>ſcepter</hi> ſubject to ſome <hi>ſtarre,</hi>
+               </l>
+               <l>Wherein its <hi>Fortune</hi> wind's or <hi>low,</hi> or <hi>high,</hi>
+               </l>
+               <l>By an <hi>eccentrike regularitie,</hi>
+               </l>
+               <l>Till, at accomplish'd <hi>numbers,</hi> it the ſame</l>
+               <l>With ſilent <hi>thunder</hi> ſtrikes, or unſeen <hi>flame,</hi>
+               </l>
+               <pb n="8" facs="tcp:153113:5"/>
+               <l>Which a lowd <hi>ſummon</hi> is, and blazing <hi>light,</hi>
+               </l>
+               <l>For him to reach a <hi>Crowne,</hi> that ha's no <hi>right,</hi>
+               </l>
+               <l>Whom the <hi>Diſpoſer Soveraigne</hi> may too</l>
+               <l>Give a <hi>short turne,</hi> and then <hi>eternize</hi> you;</l>
+               <l>For all the <hi>Kings</hi> and <hi>Kingdomes</hi> of the World</l>
+               <l>Are by him <hi>calmed,</hi> or in <hi>tempeſts</hi> hurld;</l>
+               <l>And <hi>crownes</hi> in <hi>lines</hi> deſcend not, nor are given,</l>
+               <l>But by <hi>Fate</hi> wrap't up in the fold of <hi>Heaven.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The higheſt <hi>Monarchie</hi> you can attaine</l>
+               <l>Is, to account y<hi rend="sup">e</hi> 
+                  <hi>World's,</hi> your <hi>Soveraigne;</hi>
+               </l>
+               <l>That you may copie right the <hi>Royall Are</hi>
+               </l>
+               <l>By the ſway of his <hi>ſcepter</hi> in your <hi>heart,</hi>
+               </l>
+               <l>That <hi>ſcepter</hi> which by <hi>word</hi> proclaime's his <hi>will,</hi>
+               </l>
+               <l>By <hi>ſpirit</hi> incline's gently to fullfill.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Princes</hi> true glory is God's to advance</l>
+               <l>In holy worship, and <hi>Church maintenance;</hi>
+               </l>
+               <l>By ciuile power to oblige or releaſe,</l>
+               <l>With <hi>juſtice, honour,</hi> dues to publike <hi>Peace.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Auſpicious <hi>Votes</hi> payd at the <hi>Altar</hi> may</l>
+               <l>Vnveile your <hi>Morning</hi> for a glorious <hi>Day;</hi>
+               </l>
+               <l>At leaſt keep up the <hi>cloud</hi> before her eyes</l>
+               <l>From <hi>breaking ſtormes, dethroning Miſeries;</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Though with the <hi>VVretched</hi> shall I not enroll</l>
+               <l>Him that, y<hi rend="sup">e</hi> 
+                  <hi>field</hi> &amp; <hi>Crowne</hi> loſt, ſave's his ſoul.</l>
+               <l>Vnto which center of true <hi>Happineſſe,</hi>
+               </l>
+               <l>I truſt, the <hi>All-directour</hi> doe's addreſſe</l>
+               <l>Theſe black lines of <hi>Affliction,</hi> from each arch</l>
+               <l>Of <hi>Miſerie's</hi> circumference that march</l>
+               <pb n="9" facs="tcp:153113:5"/>
+               <l>Through my <hi>ſoul's</hi> circlet, &amp; me <hi>captive</hi> lead</l>
+               <l>To <hi>Conqueſt,</hi> where, turn'd <hi>rayes,</hi> they'll deck my head.</l>
+               <l>You have allready <hi>Kis't</hi> the <hi>Cup,</hi> but I</l>
+               <l>Have <hi>congies</hi> quaff't of <hi>King-calamitie,</hi>
+               </l>
+               <l>Which though it in the hollow of each veine</l>
+               <l>A tempeſt beate, and sympathetike paine</l>
+               <l>Raiſe in my <hi>Spirits Palace,</hi> yet I call</l>
+               <l>Heav'n's <hi>Panace</hi> or ſafe <hi>Antimoniall.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Before all, if not, as <hi>Hope</hi> ſuggeſt's, done,</l>
+               <l>Ground a firme <hi>Quadrate</hi> for <hi>Religion,</hi>
+               </l>
+               <l>On which no <hi>slight Shaft</hi> or <hi>Pillaſter</hi> ſet,</l>
+               <l>With the late-fancied <hi>foliage,</hi> or <hi>fret;</hi>
+               </l>
+               <l>But ſuch as <hi>English Architects</hi> have told</l>
+               <l>Supported the <hi>Church Aedifice</hi> of old,</l>
+               <l>When <hi>Rome</hi> on no <hi>Grotiſque,</hi> or <hi>Antike,</hi> ſtood,</l>
+               <l>But on <hi>Heav'n's Atlas,</hi> a<note n="*" place="margin">Chriſt on the Croſſe, and the holy Mar<g ref="char:EOLhyphen"/>tyrs that ſuppor<g ref="char:EOLunhyphen"/>ted the Pri<g ref="char:EOLhyphen"/>miti<g ref="char:EOLhyphen"/>ve Chur<g ref="char:EOLhyphen"/>ch by their ſuffe<g ref="char:EOLhyphen"/>rings.</note> 
+                  <hi>Coloſſe of blood;</hi>
+               </l>
+               <l>
+                  <hi>Greece</hi> not in <hi>ruines,</hi> and <hi>amazement,</hi> lay,</l>
+               <l>The <hi>marble</hi> ſoftned by her <hi>teares</hi> to <hi>clay<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>Which Ancient <hi>Pile of Glory</hi> I beſt thought</l>
+               <l>By the <hi>Britannike Modellers</hi> new - wrought,</l>
+               <l>Wherein you have beauteous proportions ſeen</l>
+               <l>With <hi>others eyes,</hi> but now muſt judge between</l>
+               <l>
+                  <hi>Conſcience</hi> and <hi>Cuſtome,</hi> with your <hi>Reaſon</hi> try</l>
+               <l>What <hi>Fayth</hi> can reach short of <hi>Credulity.</hi>
+               </l>
+               <l>So shall the choice be <hi>yours,</hi> not, as before,</l>
+               <l>The practice, on <hi>mine,</hi> or the <hi>Bishops,</hi> ſcore.</l>
+            </lg>
+            <lg>
+               <l>In it, thus rais'd, I charge you <hi>perſevere,</hi>
+               </l>
+               <pb n="10" facs="tcp:153113:6"/>
+               <l>As the divineſt <hi>Oracles</hi> moſt neare</l>
+               <l>Approaching, for pure doctrine, &amp; the <hi>Prime</hi>
+               </l>
+               <l>
+                  <hi>Church order</hi> drawing downe to moderne time,</l>
+               <l>Somewhat amended, which I often have</l>
+               <l>Expreſs'd, and offer'd, but none hearing gave.</l>
+            </lg>
+            <lg>
+               <l>That you should <hi>fixed in Religion</hi> be,</l>
+               <l>Ha's no more uncontroll'd neceſſitie</l>
+               <l>For your <hi>ſoul's,</hi> then your <hi>Kingdomes</hi> laſting <hi>peace,</hi>
+               </l>
+               <l>When your <hi>warres,</hi> &amp; now - forced <hi>travailes,</hi> ceaſe.</l>
+               <l>Since the <hi>rebellious Devill,</hi> turne <hi>Divine,</hi>
+               </l>
+               <l>And in shape of <hi>Reforming Angels</hi> shine.</l>
+               <l>Now the old gliding <hi>Serpent</hi> goe's upright,</l>
+               <l>Pretending from darke <hi>shades</hi> to new - ſprung <hi>light.</hi>
+               </l>
+               <l>When Conſcience <hi>Faction</hi> and <hi>ſedition</hi> cries,</l>
+               <l>Sone with <hi>Religion</hi> ſtop her mouth, and <hi>Lies;</hi>
+               </l>
+               <l>When Piety <hi>Patience</hi> pleades, and <hi>Peace,</hi> their peal</l>
+               <l>Of <hi>Fury</hi> ring's, out nought but <hi>Armes</hi> and <hi>Zeale;</hi>
+               </l>
+               <l>So that unleſſe the root well - earthed bee,</l>
+               <l>The <hi>Wind,</hi> that ſeeme's to <hi>kiſſe,</hi> will <hi>shake,</hi> the Tree.</l>
+            </lg>
+            <lg>
+               <l>Nor shall you want <hi>Religion</hi>'s tempting powers</l>
+               <l>To <hi>Reforme,</hi> that is, <hi>Ruine</hi> you and yours:</l>
+               <pb n="11" facs="tcp:153113:6"/>
+               <l>For when the worſt in <hi>treaſon</hi> would combine,</l>
+               <l>They find nought better blancheth the <hi>deſigne,</hi>
+               </l>
+               <l>Where, beſide new invention, which affect's</l>
+               <l>The vulgar <hi>changing</hi> fancies, each project's</l>
+               <l>Himſelfe a share in the <hi>Great Worke,</hi> the name</l>
+               <l>Of a <hi>Reformer,</hi> to conceale his <hi>shame,</hi>
+               </l>
+               <l>Which, ſelf-convicted turne's to <hi>impudence</hi>
+               </l>
+               <l>Of cenſure, with feign'd <hi>zeale</hi> out-fa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing <hi>ſeaſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What by your <hi>judgement,</hi> and the <hi>Church,</hi> is ſet</l>
+               <l>
+                  <hi>Religion's ſtandard,</hi> vindicate; abet</l>
+               <l>No <hi>Partiſans</hi> of faction, nor relieve</l>
+               <l>The plaintiffe <hi>Schiſmatike,</hi> th'accus'd to grieve.</l>
+            </lg>
+            <lg>
+               <l>Head no <hi>disjointed Members,</hi> nor adhere</l>
+               <l>To<note n="*" place="margin">By <hi>privi<g ref="char:EOLhyphen"/>legia<g ref="char:EOLhyphen"/>tes</hi> are meant ſuich as claime privi<g ref="char:EOLhyphen"/>ledge or exe<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>ption from thepu<g ref="char:EOLhyphen"/>blike eſta<g ref="char:EOLhyphen"/>bliſſe<g ref="char:EOLhyphen"/>ment; and vvo<g ref="char:EOLhyphen"/>uld have the King's coun<g ref="char:EOLhyphen"/>tenan<g ref="char:EOLhyphen"/>ce a<g ref="char:EOLhyphen"/>gainſt him ſelfe.</note> 
+                  <hi>Privilegiates,</hi> in hope, or feare;</l>
+               <l>For the <hi>complying hearts,</hi> you gaine, are ſuch</l>
+               <l>As, when you in Religion <hi>ben</hi> will <hi>crouch,</hi>
+               </l>
+               <l>While the more upright <hi>Votaries</hi> impute,</l>
+               <l>That you their fayth <hi>deſpriſe,</hi> them <hi>perſecute.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>With <hi>charity,</hi> and <hi>calmneſſe,</hi> recompoſe</l>
+               <l>Impartially divided ſpirits, but thoſe</l>
+               <l>That upon intereſt <hi>Rebellion</hi> raiſe,</l>
+               <l>Out of <hi>Church-ruines</hi> to repaire decaies,</l>
+               <l>Chaſtiſe by <hi>Iuſtice,</hi> or with <hi>forces</hi> ſcatter,</l>
+               <l>So neither <hi>Faction</hi> need you <hi>feare,</hi> or <hi>flatter;</hi>
+               </l>
+               <l>For <hi>if their courteſie your want,</hi> my Son,</l>
+               <l>I antedate your doome, <hi>You are undone,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If <hi>Innocence</hi> miſtake her mate, in love</l>
+               <pb n="12" facs="tcp:153113:7"/>
+               <l>Bill with the <hi>Serpent,</hi> He'll devoure y<hi rend="sup">e</hi> 
+                  <hi>Dove.</hi>
+               </l>
+               <l>None wil you finde leſſe loyall, juſt, humane,</l>
+               <l>Then <hi>Rebells</hi> that <hi>Religion's</hi> name prophane;</l>
+               <l>All their demands, and actions, which ſurmount</l>
+               <l>
+                  <hi>Reaeſon,</hi> or rule, they place to <hi>Gods</hi> account;</l>
+               <l>Vnder whoſe Colours, and Heav'n's Canopie,</l>
+               <l>
+                  <hi>Ambition</hi> marcheth, with slie <hi>Policie,</hi>
+               </l>
+               <l>Secure and confident of the applauſe</l>
+               <l>Common <hi>Devotion</hi> offer's to <hi>God's Cauſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus may you from their <hi>covenanted Bands</hi>
+               </l>
+               <l>Heave <hi>Iacob's voice,</hi> but shall feel <hi>Eſau's</hi> ha<g ref="char:cmbAbbrStroke">̄</g>ds.</l>
+               <l>
+                  <hi>England</hi> leſſe no uſurping <hi>Faction</hi> fear'd,</l>
+               <l>Of late yeares, then <hi>Presbyterie,</hi> which appear'd</l>
+               <l>Moſt <hi>Saintly modeſt,</hi> humbly retrograde</l>
+               <l>From their forefathers boldneſſe to invade;</l>
+               <l>Nor, when they moſt in <hi>Conſiſtorie</hi> ſate,</l>
+               <l>Could they ſtrike terrour in my <hi>Church,</hi> or <hi>State;</hi>
+               </l>
+               <l>But ſince phantaſtike <hi>Frowardneſſe</hi> divides</l>
+               <l>My double - byaſs'd People into ſides,</l>
+               <l>As corrupt <hi>Humours,</hi> fond ſome <hi>Fever's</hi> name</l>
+               <l>To get, meet in full furie to inflame:</l>
+               <l>So doe's each ſcatter'd diſcontented <hi>Paſsion</hi>
+               </l>
+               <l>Here rendezvous, ſome in <hi>choice,</hi> ſome for <hi>fashion,</hi>
+               </l>
+               <l>While this <hi>New Light,</hi> shot from the <hi>Northerne ſtarre,</hi>
+               </l>
+               <l>
+                  <hi>Religion</hi> guide's, by <hi>Parliament,</hi> to <hi>Warre.</hi>
+               </l>
+            </lg>
+            <pb n="13" facs="tcp:153113:7"/>
+            <lg>
+               <l>At firſt the pettie <hi>Factions</hi> were the <hi>ſuite</hi>
+               </l>
+               <l>Of this great <hi>Rabbi,</hi> crouch'd &amp; kiſs'd his feet,</l>
+               <l>Till <hi>Time</hi> experience gave, &amp; <hi>Warre's</hi> ſucceſſe</l>
+               <l>Leiſure to ſearch, diſcoverie to gueſſe</l>
+               <l>Each at peculiar <hi>int'reſt,</hi> that invite's</l>
+               <l>To divide <hi>ſpoyles,</hi> and <hi>ſequeſter'd</hi> delights;</l>
+               <l>To breake <hi>Religion's</hi> ſtock for a new <hi>Trade</hi>
+               </l>
+               <l>By <hi>partie-profits,</hi> or <hi>preferments,</hi> made;</l>
+               <l>This to <hi>Church</hi> ruine, and <hi>Republike,</hi> wrought;</l>
+               <l>And on <hi>Presbyterie</hi> ſelf - confuſion brought;</l>
+               <l>Dash'd his firſt hopes, when choſen <hi>Generall,</hi>
+               </l>
+               <l>He mean't no <hi>sharing ſtakes,</hi> but <hi>ſweoping all.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Have nothing deſpicable in your eye</l>
+               <l>That threaten's the <hi>Church-peace</hi> or <hi>Piety;</hi>
+               </l>
+               <l>
+                  <hi>Errours,</hi> and <hi>ſchiſmes,</hi> preſented from a farre</l>
+               <l>But as <hi>Night - cloud - foyles</hi> for Heaven's bright<g ref="char:EOLhyphen"/>fac't ſtarre,</l>
+               <l>Chace from your <hi>Church-horizon,</hi> and diſpell,</l>
+               <l>By early cenſure, each to its darke cell,</l>
+               <l>Leſt what ſeeme's a <hi>petitionarie hand</hi>
+               </l>
+               <l>Or'ecloud you, ſpread into an Armed Band.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Temple</hi> cleanſed, and y<hi rend="sup">e</hi> 
+                  <hi>Altars</hi> dreſs'd,</l>
+               <l>
+                  <hi>Religion</hi> preſerv'd, beautified, profeſs'd;</l>
+               <l>To <hi>God,</hi> his <hi>Church,</hi> your <hi>Soul,</hi> due juſtice done;</l>
+               <l>
+                  <hi>Truth,</hi> though betwee<g ref="char:cmbAbbrStroke">̄</g> two crucified, kep't one;</l>
+               <l>Aſcend your high <hi>Tribunal,</hi> judge each cauſe</l>
+               <l>By your inheritance, the <hi>Kingdome's</hi> lawes:</l>
+               <l>For as your great <hi>Fate</hi> in that Orbe doth roll,</l>
+               <pb n="14" facs="tcp:153113:8"/>
+               <l>So your good <hi>Ruling-ſtarre</hi> turne's on this pole,</l>
+               <l>Whoſe mixed influence may wonder bring,</l>
+               <l>That ſet's your <hi>Subject free,</hi> yet keepe's <hi>you King,</hi>
+               </l>
+               <l>If you know true <hi>Prerogative's</hi> to have</l>
+               <l>A happy people <hi>Servant,</hi> no poore <hi>Slave;</hi>
+               </l>
+               <l>Whoſe ſafety, peace, and property preſerv'd,</l>
+               <l>Import's no pamper'd <hi>Body,</hi> with <hi>Head</hi> ſterv'd.</l>
+               <l>Ingenuous <hi>Liberty</hi> doe's not reſtraine</l>
+               <l>The right - hand priviledge to hold the reigne,</l>
+               <l>Fed with the fruits of a joint care, 'tis meant</l>
+               <l>You <hi>guide</hi> they <hi>draw,</hi> the Chariot, by conſent.</l>
+            </lg>
+            <lg>
+               <l>Charge not your head with ſuch a maſſie <hi>Crowne,</hi>
+               </l>
+               <l>As ſinke's the body and ſupporters downe,</l>
+               <l>From which nor ſtrength, nor honour, can you have,</l>
+               <l>Nor hope they 'll riſe from ruine you to ſave.</l>
+            </lg>
+            <lg>
+               <l>Beſt may you <hi>Royalty</hi> from rumours quit,</l>
+               <l>When you <hi>intend</hi> not <hi>rigour,</hi> but <hi>remit;</hi>
+               </l>
+               <l>For while by juſtice you <hi>oppreſſe,</hi> not <hi>awe,</hi>
+               </l>
+               <l>You play the <hi>Tyrant</hi> with a <hi>ruling Lawe.</hi>
+               </l>
+               <l>The cenſure of the raving <hi>VVorld</hi> to me</l>
+               <l>Is no reproach, ſo I a <hi>Martyr</hi> be,</l>
+               <l>And ſuch I am, who ſuffer, to maintaine</l>
+               <l>Fix't <hi>Lawes,</hi> ſet - <hi>VVorship</hi> of my Soveraigne;</l>
+               <l>Naught elſe my <hi>Kingdome - troublers</hi> can object</l>
+               <l>But that theſe from their <hi>changes</hi> I protect;</l>
+               <pb n="15" facs="tcp:153113:8"/>
+               <l>That I preferre the <hi>Oracles,</hi> I found</l>
+               <l>By <hi>ſun - rayes</hi> writ, to <hi>darke dreames</hi> they pro<g ref="char:EOLhyphen"/>pound;</l>
+               <l>And shall, till better <hi>Reaſon</hi> me perſwade</l>
+               <l>Then <hi>Tumults, Armies, Priſons,</hi> which invade.</l>
+            </lg>
+            <lg>
+               <l>I can not yet that uncouth leſſon learne,</l>
+               <l>Nor you, I hope, when at the <hi>Kingdome's</hi> ſterne,</l>
+               <l>That it is ſafe for us <hi>Kings</hi> to recant</l>
+               <l>Our <hi>Lawes</hi> for <hi>Faction's</hi> violence, or taunt;</l>
+               <l>O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, for their feigned courteſie, unfold</l>
+               <l>Thoſe <hi>ſacred sheetes,</hi> where <hi>VViſdome</hi> hath en<g ref="char:EOLhyphen"/>roll'd</l>
+               <l>The <hi>Publike Intereſt,</hi> and gratifie</l>
+               <l>VVith <hi>new Indentures</hi> raz'd <hi>Communitie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>VVhat, to alleviate my preſſing weights,</l>
+               <l>Heav'n may contrive; how to enlarge my ſtreights;</l>
+               <l>How it will croſſe unnaturall intents</l>
+               <l>Of <hi>Hands,</hi> becoming <hi>Heads</hi> of <hi>Jnſtruments;</hi>
+               </l>
+               <l>How into <hi>order</hi> ſuch <hi>confuſion</hi> bring;</l>
+               <l>Reduce to <hi>ſubject</hi> each become <hi>halfe-King;</hi>
+               </l>
+               <l>I can't determine, nor will take much care</l>
+               <l>How in the hands of unjuſt men I fare,</l>
+               <l>VVhile in the <hi>Empire</hi> of my <hi>ſoul</hi> I hold</l>
+               <l>
+                  <hi>Juſtice</hi> by <hi>God</hi> and <hi>Conſcience</hi> uncontroll'd.</l>
+            </lg>
+            <lg>
+               <l>VVhat <hi>Reaſon, Honour, Conſcience,</hi> could permit</l>
+               <l>To my conceſſion, I indulged it,</l>
+               <pb n="16" facs="tcp:153113:9"/>
+               <l>All <hi>ſtrain'd atlength</hi> by offers to <hi>Reforme</hi>
+               </l>
+               <l>Regarding onely ſafety in the <hi>ſtorme;</hi>
+               </l>
+               <l>Or'e-nice in no reſerves, but where <hi>conſent</hi>
+               </l>
+               <l>Muſt needs betray all due meanes to prevent</l>
+               <l>Irreparable violences to</l>
+               <l>My <hi>ſoul,</hi> the <hi>Church,</hi> my <hi>People,</hi> Son, &amp; <hi>you,</hi>
+               </l>
+               <l>VVho in the iſſues of my <hi>Grants</hi> have share,</l>
+               <l>As of my Kingdomes next <hi>undoubted heire.</hi>
+               </l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>vase of flowers</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:153113:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
